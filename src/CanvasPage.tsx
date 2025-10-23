@@ -3,7 +3,6 @@ import {
   initCanvas,
   addRectangle,
   addCircle,
-  addText,
   saveCanvasToServer,
   loadCanvasFromServer,
   clearCanvas,
